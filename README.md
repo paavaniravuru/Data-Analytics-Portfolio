@@ -1,15 +1,15 @@
 # Data-Analytics-Portfolio
 Welcome to my Data Analytics Portfolio, a collection of projects showcasing my ability to turn raw data into actionable insights.
 
-**Brief Description**
+**Brief Description**:
 This portfolio demonstrates expertise across the full analytics workflow, from data extraction and cleaning to analysis, visualization, and reporting.
 
 **Skills and Tools**:
-**SQL** — Data extraction, joins, subqueries, CTEs, aggregation, optimization.
-**Excel** — Pivot tables, advanced formulas, data cleaning, dashboards.
-**Tableau & Power BI** — Interactive dashboards, KPIs, storytelling with data.
-**Python** — Data wrangling (Pandas), statistical analysis, automation, visualization (Matplotlib, Seaborn).
-**Data Analysis Techniques** — Data cleaning, exploratory data analysis (EDA), trend identification, reporting.
+**SQL**: Data extraction, joins, subqueries, CTEs, aggregation, optimization.
+**Excel**: Pivot tables, advanced formulas, data cleaning, dashboards.
+**Tableau & Power BI**: Interactive dashboards, KPIs, storytelling with data.
+**Python**: Data wrangling (Pandas), statistical analysis, automation, visualization (Matplotlib, Seaborn).
+**Data Analysis Techniques**: Data cleaning, exploratory data analysis (EDA), trend identification, reporting.
 
 **Project Structure**:
 The repository is organized into the following folders:
